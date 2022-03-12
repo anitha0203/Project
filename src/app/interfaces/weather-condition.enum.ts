@@ -1,0 +1,16 @@
+export enum WeatherConditionEnum {
+    Fog = 'Fog',
+    Ash = 'Ash',
+    Thunderstorm = 'Thunderstorm',
+    Snow = 'Snow',
+    Mist = 'Mist',
+    Smoke = 'Smoke',
+    Sand = 'Sand',
+    Haze = 'Haze',
+    Drizzle = 'Drizzle',
+    Rain = 'Rain',
+    Dust = 'Dust',
+    Clear = 'Clear',
+    Clouds = 'Clouds',
+    Tornado = 'Tornado',
+}
